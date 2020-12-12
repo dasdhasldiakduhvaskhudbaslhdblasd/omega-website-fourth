@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'CircularStdBook';
+    src: url('../fonts/CircularStd-Book.woff2') format('woff2'),
+         url('../fonts/CircularStd-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+//$text-color: #CCCCF2;
+//$heading-color: #000;
+//$active-color: #fff;
+//background: #5454D4; header
+//background: #6565E9; narx
+//sariq - #FEDC5A
+//yashil - #77BF41;
+//color: rgba(255, 255, 255, 0.7);
+//background: #413E65; - main second
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+	text-decoration: none;
+	font-family: "CircularStdBook", sans-serif;
+	scroll-behavior: smooth;
+}
+
+html {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	width: 1250px;
+	margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
